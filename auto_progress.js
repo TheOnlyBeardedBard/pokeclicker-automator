@@ -29,6 +29,7 @@ function loopProgress() {
           }
           else{
             region++;
+            route = 1;
             while(!MapHelper.routeExist(route,region)){
               route++;
             }
