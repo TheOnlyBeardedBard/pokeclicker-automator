@@ -14,3 +14,12 @@ When selecting Pokémon, the script uses the sorting direction and filters that 
 ## auto_underground.js
 
 The Underground script simply uses Bomb whenever you are about to reach maximum energy. It's horribly inefficient, but it's better than wasting energy. It feels nice to wake up to _some_ Underground progress and know that energy is not going to waste.
+
+
+## auto_farm.js
+
+The farm script will harvest and plant whatever berry is selected in the farm.
+
+## auto_progress.js
+
+The progress script will attempt to push as far as possible while still one-shotting enemies.
